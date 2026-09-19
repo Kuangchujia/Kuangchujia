@@ -46,4 +46,12 @@ Traditional Chinese calendar · Sexagenary cycle (ganzhi) · 24 Solar terms · H
 
 ---
 
+**关于作者**：我是邝楚嘉（Kuang Chujia），广东揭阳人，笔名嘉言一得，取自《史记》「愚者千虑，必有一得」。
+
+专注中国古代天文与传统历法考据，做可核验的原始文献与历法数据归档。
+
+部分内容引用自网络，如有侵权，请联系删除，谢谢！
+
+---
+
 <sub>本仓库为 GitHub 账号首页（profile）展示页。</sub>
