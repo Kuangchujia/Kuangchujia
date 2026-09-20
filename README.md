@@ -1,6 +1,6 @@
 # 邝楚嘉 ｜ Chujia Kuang
 
-**Chujia Kuang（邝楚嘉）** · 字虚竹 · 笔名 嘉言一得（Jiayan-Yide）
+**Chujia Kuang（邝楚嘉）**  · 笔名 嘉言一得（Jiayan-Yide）
 Independent researcher · Lecturer, China World National Culture Promotion Society · Jieyang, Guangdong, China
 
 中国传统历法与传统天文星象的科普整理，以及可复算、可引用的历法公共数据整理。
