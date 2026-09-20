@@ -1,6 +1,6 @@
 # 邝楚嘉 ｜ Chujia Kuang
 
-**Chujia Kuang（邝楚嘉）**  · 笔名 嘉言一得（Jiayan-Yide）
+**Chujia Kuang（邝楚嘉）** · 字虚竹 · 笔名 嘉言一得（Jiayan-Yide）
 Independent researcher · Lecturer, China World National Culture Promotion Society · Jieyang, Guangdong, China
 
 中国传统历法与传统天文星象的科普整理，以及可复算、可引用的历法公共数据整理。
@@ -46,7 +46,8 @@ Traditional Chinese calendar · Sexagenary cycle (ganzhi) · 24 Solar terms · H
 
 ---
 
-邝楚嘉（Kuang Chujia），广东揭阳人，笔名嘉言一得。从事中国古代天文与传统历法考据，致力于可核验的原始文献与历法数据归档。考据笔记、数据集与预印本公开于 WordPress、GitHub 与 Zenodo。
+作者：嘉言一得（邝楚嘉）｜独立天文历法爱好者，致力于可核验的原始文献与历法数据归档。
+考据笔记 · 数据集 · 预印本：GitHub / WordPress / Zenodo（DOI: 10.5281/zenodo.22820072）
 
 ---
 
