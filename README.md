@@ -48,7 +48,7 @@ Traditional Chinese calendar · Sexagenary cycle (ganzhi) · 24 Solar terms · H
 ---
 
 作者：嘉言一得（邝楚嘉）｜独立天文历法爱好者，致力于可核验的原始文献与历法数据归档。
-平实记录 · 数据集 · 预印本：GitHub / WordPress / Zenodo（DOI: 10.5281/zenodo.22820072）
+平实记录 · 数据集 · 预印本：GitHub / WordPress / Zenodo（DOI: 10.5281/zenodo.22788686）
 
 ---
 
