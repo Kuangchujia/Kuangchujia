@@ -17,11 +17,12 @@ Independent researcher · Lecturer, China World National Culture Promotion Socie
 
 凡涉及具体时刻、日期、星位的地方，都以可查的历算数据与传世文献为据；能给出来源的给出来源；文献之间有分歧的，把分歧本身写出来，不替读者选边。**不含预测性论断，亦不涉个体测算。**
 
-## 三个项目
+## 四个项目
 
 | 项目 | 内容 | 入口 |
 |:---|:---|:---|
 | **历法公共数据集** | 二十四节气交节时刻（公元 1900—2052，逐年逐节气，精确到秒）／历代历法改革年表（52 部）／干支纪日对照表（逐日）。每件数据旁附核验表，另附考异表 | [`chinese-calendar-dataset`](https://github.com/Kuangchujia/chinese-calendar-dataset) ｜ DOI [10.5281/zenodo.22788686](https://doi.org/10.5281/zenodo.22788686) |
+| **天象预报模块（开源）** | 中国古天文历法的离线预计算引擎（Skyfield ＋ JPL DE421）＋ WordPress 发布插件。二十四节气、日月食、行星合冲留逆、流星雨、日出日落与晨昏蒙影；四张表、七个短代码、八个模板、六道自校验闸门 | [`astro-forecast`](https://github.com/Kuangchujia/astro-forecast) ｜ 代码 MIT ／ 数据 CC BY 4.0 |
 | **科普稿预印本镜像** | 「中国历法与传统天文星象」系列稿的 PDF 与书目元数据镜像，与 Zenodo 上的逐篇记录一一对应 | [`kuangchujia-preprints`](https://github.com/Kuangchujia/kuangchujia-preprints) ｜ 站点 <https://kuangchujia.github.io/kuangchujia-preprints/> |
 | **科普稿正文镜像** | 同一系列的正文 Markdown 与正文配图，14 篇，便于阅读与检索 | [`kuangchujia-articles`](https://github.com/Kuangchujia/kuangchujia-articles) |
 
@@ -43,7 +44,7 @@ Traditional Chinese calendar · Sexagenary cycle (ganzhi) · 24 Solar terms · H
 
 ## 署名与引用
 
-数据集与预印本的正式引用，请使用对应的 **Zenodo DOI**。本账号各仓库内容依 **CC BY 4.0** 发布；转载或引用请保留署名与来源。
+数据集与预印本的正式引用，请使用对应的 **Zenodo DOI**。本账号各仓库内容依 **CC BY 4.0** 发布（`astro-forecast` 的代码部分为 MIT）；转载或引用请保留署名与来源。
 
 ---
 
