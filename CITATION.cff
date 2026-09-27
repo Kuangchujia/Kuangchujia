@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "中国历法公共数据集：二十四节气交节时刻、历代历法改革年表、干支纪日对照表"
+abstract: >-
+  中国历法基础数据的开放集合，含三件互为关联的资产：(A1) 公元 1900—2052 年
+  二十四节气交节时刻逐条数据 3,672 条，依 GB/T 33661-2017 定义、以 JPL DE421
+  星历自算并精确到秒，与紫金山天文台 2026 年官方值 24/24 一致；(A2) 历代历法
+  改革年表 52 部，含行用起止年、编者、岁首与岁实；(A3) 公元 1900—2052 年逐日
+  干支纪日对照表 55,883 天，含干支、旬、所在节气与节气月。全部内容均为历法事实，
+  不含任何推断或个体指向。
+authors:
+  - family-names: "邝"
+    given-names: "楚嘉"
+    alias: "虚竹"
+    orcid: "https://orcid.org/0009-0002-7650-833X"
+version: "1.0.0"
+date-released: "2026-09-16"
+doi: "10.5281/zenodo.22788686"
+license: "CC-BY-4.0"
+language: "zho"
+repository-code: "https://github.com/Kuangchujia/chinese-calendar-dataset"
+identifiers:
+  - type: other
+    value: "https://openalex.org/A5151908354"
+    description: "OpenAlex author index — 邝楚嘉（Chujia Kuang）"
+  - type: url
+    value: "https://kuangchujia.com"
+    description: "Author hub — 全部成果总入口"
+keywords:
+  - 二十四节气
+  - 节气
+  - 交节时刻
+  - 干支纪日
+  - 历法
+  - 中国历法
+  - 农历
+  - solar terms
+  - Chinese calendar
+  - sexagenary cycle
+  - ganzhi
+  - ephemeris
