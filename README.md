@@ -8,18 +8,28 @@
 Independent researcher · Lecturer, China World National Culture Promotion Society · Jieyang, Guangdong, China
 
 中国传统历法与传统天文星象的科普整理，以及可复算、可引用的历法公共数据整理。
+*Traditional Chinese calendrics and historical Chinese astronomy, written up for general readers, together with calendar data that can be re-computed and cited.*
 
-**全部成果总入口**：<https://kuangchujia.com>
+**全部成果总入口 · All output**：<https://kuangchujia.com>
+
+> **本页中英双语**，每节中文在前、英文在后，两版内容逐节对应。
+> **This page is in both Chinese and English** — Chinese first, English second, section by section.
 
 ---
 
-## 在做什么
+## 在做什么 ｜ What I Do
 
 把中国传统历法与古代天文星象，整理成**可查、可算、可核**的东西。
 
 立春那天出生的孩子，生肖该按哪个算；古人没有钟表，怎么知道现在是几点；黄道和白道，到底差在哪儿——这些是日常里被反复问到的问题，看着零碎，底下是同一套历法与星象的构造。于是按顺序一篇篇写下来。
 
 凡涉及具体时刻、日期、星位的地方，都以可查的历算数据与传世文献为据；能给出来源的给出来源；文献之间有分歧的，把分歧本身写出来，不替读者选边。**不含预测性论断，亦不涉个体测算。**
+
+*What I am doing is to put the traditional Chinese calendar, and the astronomy behind it, into a form that can be looked up, computed and checked.*
+
+*Which zodiac year does a child born on the first day of spring actually belong to? Without clocks, how did people know what time it was? Where exactly do the ecliptic and the lunar path part ways? These are asked all the time; they look scattered, yet the same calendar and the same star system sit underneath. So the pieces are written out one by one, in order.*
+
+*Every figure for a moment, a date or a position is tied to ephemeris data that can be re-computed and to sources that can be looked up. Where sources disagree, the disagreement itself is set out rather than settled on the reader's behalf. **No predictive claims, and no individual readings.***
 
 ## 五个项目 ｜ Five Projects
 
@@ -31,32 +41,42 @@ Independent researcher · Lecturer, China World National Culture Promotion Socie
 | **科普稿预印本镜像**<br>Preprint Mirror | 「中国历法与传统天文星象」系列稿的 PDF 与书目元数据镜像，与 Zenodo 上的逐篇记录一一对应。<br>*PDFs and bibliographic metadata for the "Chinese Calendar and Traditional Astronomy" article series, mirroring its individual Zenodo records one for one.* | [`kuangchujia-preprints`](https://github.com/Kuangchujia/kuangchujia-preprints) ｜ 站点 <https://kuangchujia.github.io/kuangchujia-preprints/> |
 | **科普稿正文镜像**<br>Article Source Mirror | 同一系列的正文 Markdown 与正文配图，14 篇，便于阅读与检索。<br>*The article sources of the same series — Markdown text and inline figures, 14 pieces — for reading and full-text search.* | [`kuangchujia-articles`](https://github.com/Kuangchujia/kuangchujia-articles) |
 
-## 研究与写作方向
+## 研究与写作方向 ｜ Research & Writing
 
-Traditional Chinese calendar · Sexagenary cycle (ganzhi) · 24 Solar terms · History of Chinese astronomy · Calendrical reform
+Traditional Chinese calendar · Sexagenary cycle (ganzhi) · 24 solar terms · History of Chinese astronomy · Calendrical reform
 
 - **节气怎么定**：太阳走到黄经多少度算交节，为什么每年差一两天。
 - **干支怎么换岁**：立春换、还是正月初一换，两说的来路在哪。
 - **方位与时令怎么对上**：什么时节做什么事，老话说得有没有理。
 - **古代天文与星空**：黄道、白道、赤道三条道；三垣与二十八宿；磁针出现之前，古人怎么定方向。
 
-## 在别处
+- *How a solar term is fixed: at which solar longitude the term begins, and why the date drifts by a day or two from year to year.*
+- *How the ganzhi year is renewed: at the first day of spring, or at the first day of the first month — and where each reading comes from.*
+- *How direction and season are matched: what is done in which season, and whether the old sayings hold up.*
+- *Historical astronomy and the sky: the ecliptic, the lunar path and the equator; the three enclosures and the twenty-eight mansions; how direction was found before the magnetic needle.*
 
-- 写作站（全部成果总入口）：<https://kuangchujia.com>
-- 个人主页：<https://kuangchujia.cn>
-- **ORCID**：<https://orcid.org/0009-0002-7650-833X>
-- **OpenAlex**：<https://openalex.org/A5151908354>
-- 数据集与预印本检索：<https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22%E9%82%9D%E6%A5%9A%E5%98%89%22>
+## 在别处 ｜ Elsewhere
 
-## 署名与引用
+- 写作站（全部成果总入口）· Writing site (all output): <https://kuangchujia.com>
+- 个人主页 · Personal homepage: <https://kuangchujia.cn>
+- **ORCID**: <https://orcid.org/0009-0002-7650-833X>
+- **OpenAlex**: <https://openalex.org/A5151908354>
+- 数据集与预印本检索 · Zenodo search: <https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22%E9%82%9D%E6%A5%9A%E5%98%89%22>
+
+## 署名与引用 ｜ Attribution & Citation
 
 数据集与预印本的正式引用，请使用对应的 **Zenodo DOI**。本账号各仓库内容依 **CC BY 4.0** 发布（`astro-forecast` 的代码部分为 MIT）；转载或引用请保留署名与来源。
 
----
-
-作者：嘉言一得（邝楚嘉）｜独立天文历法爱好者，致力于可核验的原始文献与历法数据归档。
-平实记录 · 数据集 · 预印本：GitHub / WordPress / Zenodo（DOI: 10.5281/zenodo.22788686）
+*For formal citation of the datasets and preprints, please use the corresponding **Zenodo DOI**. Content in the repositories of this account is released under **CC BY 4.0** (the code of `astro-forecast` under MIT). Please keep the attribution and the source when reusing or citing.*
 
 ---
 
-<sub>本仓库为 GitHub 账号首页（profile）展示页。</sub>
+作者：嘉言一得（邝楚嘉）｜独立研究者，致力于可核验的原始文献与历法数据归档。
+Author: Chujia Kuang (邝楚嘉), pen name Jiayan Yide (嘉言一得) — independent researcher devoted to archiving verifiable primary sources and calendar data.
+平实记录 · 数据集 · 预印本：GitHub / WordPress / Zenodo（DOI: 10.5281/zenodo.22788686 ／ 10.5281/zenodo.23028692）
+Records · Datasets · Preprints: GitHub / WordPress / Zenodo
+学术身份 · Academic identity：ORCID 0009-0002-7650-833X ｜ OpenAlex A5151908354
+
+---
+
+<sub>本仓库为 GitHub 账号首页（profile）展示页。 · This repository is the profile page of this GitHub account.</sub>
