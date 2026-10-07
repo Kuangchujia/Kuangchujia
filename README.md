@@ -62,6 +62,7 @@ Traditional Chinese calendar · Sexagenary cycle (ganzhi) · 24 solar terms · H
 - **ORCID**: <https://orcid.org/0009-0002-7650-833X>
 - **OpenAlex**: <https://openalex.org/A5151908354>
 - 数据集与预印本检索 · Zenodo search: <https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22%E9%82%9D%E6%A5%9A%E5%98%89%22>
+- **OSF**（开放研究镜像 · open research mirror）: <https://osf.io/3wvkh/>
 
 ## 署名与引用 ｜ Attribution & Citation
 
