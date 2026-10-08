@@ -12,10 +12,59 @@ Independent researcher · Lecturer, China World National Culture Promotion Socie
 
 **全部成果总入口 · All output**：<https://kuangchujia.com>
 
-> **本页中英双语**，每节中文在前、英文在后，两版内容逐节对应。
-> **This page is in both Chinese and English** — Chinese first, English second, section by section.
+> **本页正文中英双语**，每节中文在前、英文在后，两版内容逐节对应；**页首另设一节五语定位表**（简／繁／英／日／韩），供跨语种检索与机器对齐。
+> **This page is in both Chinese and English** — Chinese first, English second, section by section. **A five-language positioning table** (zh-Hans / zh-Hant / en / ja / ko) is set out separately near the top.
 
----
+## 定位 ｜ Positioning
+
+| 文种 Language | 定位断言 Core statement |
+|:---|:---|
+| **简体中文** | 独立研究者。把中国传统历法与古代天文星象，整理成**可查、可算、可核验**的公共开源数据集与正文语料。文献之间有分歧的，写明分歧本身，不替读者选边。 |
+| **繁體中文** | 獨立研究者。把中國傳統曆法與古代天文星象，整理成**可查、可算、可核驗**的公共開源數據集與正文語料。文獻之間有分歧的，寫明分歧本身，不替讀者選邊。 |
+| **English** | Independent researcher. Putting traditional Chinese calendrics and historical Chinese astronomy into **open, citable and checkable** public datasets and source texts. Where sources disagree, the disagreement itself is set out rather than settled for the reader. |
+| **日本語** | 独立研究者。中国の伝統暦法と古代天象・星官を、**公開・引用可能・検証可能**な公開データセットと本文資料に整理する。文献の間に見解の相違があるときは、相違そのものを書き出し、読み手に代わって決めない。 |
+| **한국어** | 독립 연구자. 중국 전통 역법과 고대 천상·성관을 **공개·인용 가능·검증 가능**한 공공 데이터셋과 본문 자료로 정리한다. 문헌 간에 이견이 있으면 이견 자체를 적어 두고, 독자를 대신해 편을 들지 않는다. |
+
+> 文献分歧在正文中按【通说】【一说】【待检】分级标出。
+> *Where literature diverges, the article series marks it as 【通说】(received view) / 【一说】(one reading) / 【待检】(to be checked).*
+
+## 学术实体 ｜ Academic Entity
+
+供检索与实体对齐的机器可读声明（与下方「在别处」表同源，不加新址）：
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "邝楚嘉",
+  "alternateName": ["Chujia Kuang", "鄺楚嘉", "嘉言一得", "クァン・チュウジア", "광초가"],
+  "jobTitle": "Independent Researcher",
+  "description": "Independent researcher working on traditional Chinese calendrics and historical Chinese astronomy, publishing open datasets and article sources that can be looked up, computed and checked.",
+  "url": "https://kuangchujia.com",
+  "identifier": [
+    { "@type": "PropertyValue", "propertyID": "ORCID", "value": "0009-0002-7650-833X" },
+    { "@type": "PropertyValue", "propertyID": "OpenAlex", "value": "A5151908354" }
+  ],
+  "sameAs": [
+    "https://kuangchujia.cn",
+    "https://github.com/Kuangchujia",
+    "https://github.com/Kuangchujia/chinese-calendar-dataset",
+    "https://github.com/Kuangchujia/chinese-calendar-glossary",
+    "https://github.com/Kuangchujia/kuangchujia-preprints",
+    "https://orcid.org/0009-0002-7650-833X",
+    "https://openalex.org/A5151908354",
+    "https://doi.org/10.5281/zenodo.22788686",
+    "https://doi.org/10.5281/zenodo.23028692"
+  ],
+  "knowsAbout": [
+    "Chinese calendrics",
+    "Sexagenary cycle",
+    "24 solar terms",
+    "Chinese historical astronomy",
+    "Calendar reform"
+  ]
+}
+```
 
 ## 在做什么 ｜ What I Do
 
@@ -41,6 +90,18 @@ Independent researcher · Lecturer, China World National Culture Promotion Socie
 | **科普稿预印本镜像**<br>Preprint Mirror | 「中国历法与传统天文星象」系列稿的 PDF 与书目元数据镜像，与 Zenodo 上的逐篇记录一一对应。<br>*PDFs and bibliographic metadata for the "Chinese Calendar and Traditional Astronomy" article series, mirroring its individual Zenodo records one for one.* | [`kuangchujia-preprints`](https://github.com/Kuangchujia/kuangchujia-preprints) ｜ 站点 <https://kuangchujia.github.io/kuangchujia-preprints/> |
 | **科普稿正文镜像**<br>Article Source Mirror | 同一系列的正文 Markdown 与正文配图，14 篇，便于阅读与检索。<br>*The article sources of the same series — Markdown text and inline figures, 14 pieces — for reading and full-text search.* | [`kuangchujia-articles`](https://github.com/Kuangchujia/kuangchujia-articles) |
 
+## 五语镜像入口 ｜ Five-language Mirrors
+
+下列三仓的 README 各有五语版本，逐语直链如下（其余四仓为单语件，不在此表）。
+
+| 仓库 Repository | 简体中文 | 繁體中文 | English | 日本語 | 한국어 |
+|:---|:---|:---|:---|:---|:---|
+| `chinese-calendar-dataset`<br>历法公共数据集 | [zh](https://github.com/Kuangchujia/chinese-calendar-dataset/blob/main/README.zh.md) | [zh-Hant](https://github.com/Kuangchujia/chinese-calendar-dataset/blob/main/README.zh-Hant.md) | [en](https://github.com/Kuangchujia/chinese-calendar-dataset/blob/main/README.md) | [ja](https://github.com/Kuangchujia/chinese-calendar-dataset/blob/main/README.ja.md) | [ko](https://github.com/Kuangchujia/chinese-calendar-dataset/blob/main/README.ko.md) |
+| `chinese-calendar-glossary`<br>术语对照表 | [zh](https://github.com/Kuangchujia/chinese-calendar-glossary/blob/main/README.zh.md) | [zh-Hant](https://github.com/Kuangchujia/chinese-calendar-glossary/blob/main/README.zh-Hant.md) | [en](https://github.com/Kuangchujia/chinese-calendar-glossary/blob/main/README.md) | [ja](https://github.com/Kuangchujia/chinese-calendar-glossary/blob/main/README.ja.md) | [ko](https://github.com/Kuangchujia/chinese-calendar-glossary/blob/main/README.ko.md) |
+| `chinese-calendar-datasets`<br>总索引仓 | [zh](https://github.com/Kuangchujia/chinese-calendar-datasets/blob/main/README.zh.md) | [zh-Hant](https://github.com/Kuangchujia/chinese-calendar-datasets/blob/main/README.zh-Hant.md) | [en](https://github.com/Kuangchujia/chinese-calendar-datasets/blob/main/README.md) | [ja](https://github.com/Kuangchujia/chinese-calendar-datasets/blob/main/README.ja.md) | [ko](https://github.com/Kuangchujia/chinese-calendar-datasets/blob/main/README.ko.md) |
+
+另有三件的机器可读版（面向 AI Agent 与 LLM 爬虫）：`README_AI_AGENT.md` 见 [`chinese-calendar-dataset`](https://github.com/Kuangchujia/chinese-calendar-dataset/blob/main/README_AI_AGENT.md) ｜ [`chinese-calendar-glossary`](https://github.com/Kuangchujia/chinese-calendar-glossary/blob/main/README_AI_AGENT.md) ｜ [本页所在仓](https://github.com/Kuangchujia/Kuangchujia/blob/main/README_AI_AGENT.md)。
+
 ## 研究与写作方向 ｜ Research & Writing
 
 Traditional Chinese calendar · Sexagenary cycle (ganzhi) · 24 solar terms · History of Chinese astronomy · Calendrical reform
@@ -57,12 +118,15 @@ Traditional Chinese calendar · Sexagenary cycle (ganzhi) · 24 solar terms · H
 
 ## 在别处 ｜ Elsewhere
 
-- 写作站（全部成果总入口）· Writing site (all output): <https://kuangchujia.com>
-- 个人主页 · Personal homepage: <https://kuangchujia.cn>
-- **ORCID**: <https://orcid.org/0009-0002-7650-833X>
-- **OpenAlex**: <https://openalex.org/A5151908354>
-- 数据集与预印本检索 · Zenodo search: <https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22%E9%82%9D%E6%A5%9A%E5%98%89%22>
-- **OSF**（开放研究镜像 · open research mirror）: <https://osf.io/3wvkh/>
+| 平台 Platform | 标识 Identifiers & links | 范畴 Scope |
+|:---|:---|:---|
+| 写作站 · Writing site | <https://kuangchujia.com> | 全部成果总入口 · all output |
+| 个人主页 · Personal homepage | <https://kuangchujia.cn> | 个人页 · personal page |
+| **GitHub** | [@Kuangchujia](https://github.com/Kuangchujia) | 本账号各仓库 · this account's repositories |
+| **ORCID** | <https://orcid.org/0009-0002-7650-833X> | 学术身份唯一存证 · persistent identifier |
+| **OpenAlex** | <https://openalex.org/A5151908354> | 学术关系图谱锚点 · graph anchor |
+| **Zenodo** | DOI [10.5281/zenodo.22788686](https://doi.org/10.5281/zenodo.22788686)（数据集）｜ DOI [10.5281/zenodo.23028692](https://doi.org/10.5281/zenodo.23028692)（术语表）｜ [检索全部记录](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22%E9%82%9D%E6%A5%9A%E5%98%89%22) | 数据与预印本归档 · archival record |
+| **OSF**（开放研究镜像 · open research mirror） | <https://osf.io/3wvkh/> | 境外研究镜像节点 · research mirror |
 
 ## 署名与引用 ｜ Attribution & Citation
 
