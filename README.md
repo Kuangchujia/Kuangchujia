@@ -7,70 +7,22 @@
 **Chujia Kuang（邝楚嘉）** · 笔名 嘉言一得（Jiayan-Yide）
 Independent researcher · Lecturer, China World National Culture Promotion Society · Jieyang, Guangdong, China
 
-中国传统历法与传统天文星象的科普整理，以及可复算、可引用的历法公共数据整理。
-*Traditional Chinese calendrics and historical Chinese astronomy, written up for general readers, together with calendar data that can be re-computed and cited.*
+两条线，同一作者：中国传统历法与历史天文，做**可算的天时**；潮汕民俗与地方文化数据，做**可查的地方知识**。
+*Two lines by one author: traditional Chinese calendrics and historical astronomy — computable celestial time; and Chaoshan folklore and local cultural data — look-up-able local knowledge.*
 
 **全部成果总入口 · All output**：<https://kuangchujia.com>
+**引用与身份 · Cite & identity**：DOI [10.5281/zenodo.22788686](https://doi.org/10.5281/zenodo.22788686) ｜ ORCID [0009-0002-7650-833X](https://orcid.org/0009-0002-7650-833X)
 
-> **本页正文中英双语**，每节中文在前、英文在后，两版内容逐节对应；**页首另设一节五语定位表**（简／繁／英／日／韩），供跨语种检索与机器对齐。
-> **This page is in both Chinese and English** — Chinese first, English second, section by section. **A five-language positioning table** (zh-Hans / zh-Hant / en / ja / ko) is set out separately near the top.
+> **本页正文中英双语**，每节中文在前、英文在后，两版内容逐节对应。五语定位表与机器可读声明放在页末。
+> **This page is in both Chinese and English**, Chinese first, English second, section by section. The five-language positioning table and the machine-readable statement are placed near the end.
 
-## 定位 ｜ Positioning
+## 两个研究方向 ｜ Two Lines of Work
 
-| 文种 Language | 定位断言 Core statement |
-|:---|:---|
-| **简体中文** | 独立研究者。把中国传统历法与古代天文星象，整理成**可查、可算、可核验**的公共开源数据集与正文语料。文献之间有分歧的，写明分歧本身，不替读者选边。 |
-| **繁體中文** | 獨立研究者。把中國傳統曆法與古代天文星象，整理成**可查、可算、可核驗**的公共開源數據集與正文語料。文獻之間有分歧的，寫明分歧本身，不替讀者選邊。 |
-| **English** | Independent researcher. Putting traditional Chinese calendrics and historical Chinese astronomy into **open, citable and checkable** public datasets and source texts. Where sources disagree, the disagreement itself is set out rather than settled for the reader. |
-| **日本語** | 独立研究者。中国の伝統暦法と古代天象・星官を、**公開・引用可能・検証可能**な公開データセットと本文資料に整理する。文献の間に見解の相違があるときは、相違そのものを書き出し、読み手に代わって決めない。 |
-| **한국어** | 독립 연구자. 중국 전통 역법과 고대 천상·성관을 **공개·인용 가능·검증 가능**한 공공 데이터셋과 본문 자료로 정리한다. 문헌 간에 이견이 있으면 이견 자체를 적어 두고, 독자를 대신해 편을 들지 않는다. |
+两线并列，不是上下：历法线做「可算的天时」，潮汕线做「可查的地方知识」。读者可以只用其中一条。
 
-> 文献分歧在正文中按【通说】【一说】【待检】分级标出。
-> *Where literature diverges, the article series marks it as 【通说】(received view) / 【一说】(one reading) / 【待检】(to be checked).*
+*The two lines stand side by side rather than one above the other: the calendrical line deals with computable celestial time, the Chaoshan line with look-up-able local knowledge. A reader may use either one alone.*
 
-## 学术实体 ｜ Academic Entity
-
-供检索与实体对齐的机器可读声明（与下方「在别处」表同源，不加新址）：
-
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "邝楚嘉",
-  "alternateName": ["Chujia Kuang", "鄺楚嘉", "嘉言一得", "クァン・チュウジア", "광초가"],
-  "jobTitle": "Independent Researcher",
-  "description": "Independent researcher working on traditional Chinese calendrics and historical Chinese astronomy, publishing open datasets and article sources that can be looked up, computed and checked.",
-  "url": "https://kuangchujia.com",
-  "identifier": [
-    { "@type": "PropertyValue", "propertyID": "ORCID", "value": "0009-0002-7650-833X" },
-    { "@type": "PropertyValue", "propertyID": "OpenAlex", "value": "A5151908354" }
-  ],
-  "sameAs": [
-    "https://kuangchujia.cn",
-    "https://github.com/Kuangchujia",
-    "https://github.com/Kuangchujia/chinese-calendar-dataset",
-    "https://github.com/Kuangchujia/chinese-calendar-glossary",
-    "https://github.com/Kuangchujia/kuangchujia-preprints",
-    "https://orcid.org/0009-0002-7650-833X",
-    "https://openalex.org/A5151908354",
-    "https://doi.org/10.5281/zenodo.22788686",
-    "https://doi.org/10.5281/zenodo.23028692",
-    "https://chaoshanwiki.com",
-    "https://doi.org/10.5281/zenodo.23584609"
-  ],
-  "knowsAbout": [
-    "Chinese calendrics",
-    "Sexagenary cycle",
-    "24 solar terms",
-    "Chinese historical astronomy",
-    "Calendar reform",
-    "Chaoshan folklore",
-    "Intangible cultural heritage"
-  ]
-}
-```
-
-## 在做什么 ｜ What I Do
+### 一 · 历法与传统天文 ｜ Calendrics & Historical Astronomy
 
 把中国传统历法与古代天文星象，整理成**可查、可算、可核**的东西。
 
@@ -84,7 +36,30 @@ Independent researcher · Lecturer, China World National Culture Promotion Socie
 
 *Every figure for a moment, a date or a position is tied to ephemeris data that can be re-computed and to sources that can be looked up. Where sources disagree, the disagreement itself is set out rather than settled on the reader's behalf. **No predictive claims, and no individual readings.***
 
-## 五个项目 ｜ Five Projects
+**状态 · Status**（截至 2026-10-23）：三件数据集已发布——节气交节时刻 3,672 条、历代历法年表 52 部、干支纪日 55,883 天；术语对照表 279 条已发布；预计算引擎 `astro-forecast` 已开源；科普稿 14 篇已归档。
+
+### 二 · 潮汕民俗与地方文化数据 ｜ Chaoshan Folklore & Cultural Data
+
+**[潮俗网 · chaoshanwiki.com](https://chaoshanwiki.com)** 潮汕民俗与地方文化的公共资料站。同一作者，另建一套档案：单独的数据集、单独的 DOI，不并进历法记录。
+
+- **潮汕非物质文化遗产名录的整理、核验与结构化发布。** 汕头市第六至第八批市级名录 139 项，逐条落到字段、文号与证据定位。
+- **潮汕民俗、传统技艺、节庆与地方文化资料的来源整理。** 站点按国保、省保、非遗、民俗、方言等栏目建档，每条材料注明出处。
+- **文化数据的字段规范、来源追溯、版本管理与开放引用。** 22 列数据字典、JSON Schema、SHA256 校验和、变更记录。
+- **通过潮俗网建立可检索、可交叉引用的地方文化知识档案。** 页面与数据集互指，读者可由条目回到原件。
+
+研究原则：区分官方名录、历史文献、田野记录与现代解释；每条材料写明来源、核验状态与使用权限，未经核实的说法不写成确定事实。
+
+*Principle: official registers, historical documents, field records and modern interpretations are kept apart. Every item carries its source, its verification state and its rights status; a claim that has not been checked is not written up as fact.*
+
+**状态 · Status**（截至 2026-10-23）
+- 已发布：名录数据集 v1.0，139 项 × 22 列，DOI [10.5281/zenodo.23584609](https://doi.org/10.5281/zenodo.23584609)；OSF 镜像 <https://osf.io/n29q3/>
+- 已上线：潮俗网 263 页；名录页与数据集页互为入口
+- 在建：条目页补证——139 项中 106 项站内尚无对应内容，逐条补来源与正文
+- 计划：英文摘要与双语字段；影像授权另行处理，未授权的图不收
+
+## 代表性项目 ｜ Selected Projects
+
+### 历法线 ｜ Calendrical line
 
 | 项目 Project | 内容 Content | 入口 Links |
 |:---|:---|:---|
@@ -94,17 +69,57 @@ Independent researcher · Lecturer, China World National Culture Promotion Socie
 | **科普稿预印本镜像**<br>Preprint Mirror | 「中国历法与传统天文星象」系列稿的 PDF 与书目元数据镜像，与 Zenodo 上的逐篇记录一一对应。<br>*PDFs and bibliographic metadata for the "Chinese Calendar and Traditional Astronomy" article series, mirroring its individual Zenodo records one for one.* | [`kuangchujia-preprints`](https://github.com/Kuangchujia/kuangchujia-preprints) ｜ 站点 <https://kuangchujia.github.io/kuangchujia-preprints/> |
 | **科普稿正文镜像**<br>Article Source Mirror | 同一系列的正文 Markdown 与正文配图，14 篇，便于阅读与检索。<br>*The article sources of the same series — Markdown text and inline figures, 14 pieces — for reading and full-text search.* | [`kuangchujia-articles`](https://github.com/Kuangchujia/kuangchujia-articles) |
 
-## 第二条知识线 ｜ A Second Line of Work
-
-**[潮俗网 · chaoshanwiki.com](https://chaoshanwiki.com)** 潮汕民俗与地方文化的公共资料站。与历法线并行，同一作者，分别建档：两线各建数据集、各立 DOI，不并入同一记录。
+### 潮汕线 ｜ Chaoshan line
 
 | 内容 Content | 规模 Scale | 入口 Links |
 |:---|:---|:---|
 | **潮汕非物质文化遗产名录数据集**<br>Chaoshan ICH Register Dataset | 汕头市第六至第八批市级非遗代表性项目名录，139 项（第六批 29／第七批 58／第八批 52）。字段取原件栏目，另附文号、证据定位、核验记录与站内对应页四层；饮食类 72 项单列。<br>*The 6th–8th municipal intangible cultural heritage registers of Shantou: 139 entries (29 / 58 / 52). Fields are taken from the original documents, with document numbers, evidence locators, verification records and the matching page on the site added as four further layers; 72 food-related entries are flagged.* | [chaoshanwiki.com](https://chaoshanwiki.com) ｜ DOI [10.5281/zenodo.23584609](https://doi.org/10.5281/zenodo.23584609) |
 
-两线并列，不是上下：历法线做「可算的天时」，潮汕线做「可查的地方知识」。读者可以只用其中一条。
+## 研究与写作方向 ｜ Research & Writing
 
-*The two lines stand side by side rather than one above the other: the calendrical line deals with computable celestial time, the Chaoshan line with look-up-able local knowledge. A reader may use either one alone.*
+**已完成并发布**：历法公共数据集 · 术语对照表 · 开源预计算引擎
+**持续写作**：节气怎么定 · 干支怎么换岁 · 方位与时令 · 星空与星官
+
+*Keywords: Traditional Chinese calendar · Sexagenary cycle (ganzhi) · 24 solar terms · History of Chinese astronomy · Calendrical reform*
+
+- **节气怎么定**：太阳走到黄经多少度算交节，为什么每年差一两天。
+- **干支怎么换岁**：立春换、还是正月初一换，两说的来路在哪。
+- **方位与时令怎么对上**：什么时节做什么事，老话说得有没有理。
+- **古代天文与星空**：黄道、白道、赤道三条道；三垣与二十八宿；磁针出现之前，古人怎么定方向。
+
+- *How a solar term is fixed: at which solar longitude the term begins, and why the date drifts by a day or two from year to year.*
+- *How the ganzhi year is renewed: at the first day of spring, or at the first day of the first month — and where each reading comes from.*
+- *How direction and season are matched: what is done in which season, and whether the old sayings hold up.*
+- *Historical astronomy and the sky: the ecliptic, the lunar path and the equator; the three enclosures and the twenty-eight mansions; how direction was found before the magnetic needle.*
+
+### 潮汕民俗与地方文化数据 ｜ Chaoshan Folklore & Cultural Data
+
+- **名录与实物怎么对上**：市级名录的项目、保护单位与传承人，和国保、省保、方言片区之间是什么关系。
+- **一条材料能追到多远**：从站上条目回到政府文号、原件页面与行号，再回到可引用的存档。
+- **技艺与节庆的写实边界**：哪些说法有文献或田野依据，哪些只是近年传播中形成的称谓。
+
+- *How register entries map onto practice and onto the national and provincial lists.*
+- *How far one item can be traced back — page, document number, line, archive.*
+- *Where the writing has to stop because the source does — which sayings rest on documents or fieldwork, and which are recent coinages.*
+
+## 署名与引用 ｜ Attribution & Citation
+
+各仓库的许可条件以该仓库的 LICENSE、README 及相关数据记录为准。数据、软件、正文和第三方材料可能适用不同的许可条件；未明确授权的第三方材料不因仓库公开而自动获得再利用许可。正式学术引用请优先使用对应成果的 DOI 或版本记录。
+
+*Licensing terms for each repository are governed by that repository's LICENSE, README and the corresponding data records. Data, software, text and third-party material may carry different terms; third-party material without an explicit licence does not become reusable merely because the repository is public. For formal citation, use the DOI or the version record of the specific work.*
+
+## 在别处 ｜ Elsewhere
+
+| 平台 Platform | 标识 Identifiers & links | 范畴 Scope |
+|:---|:---|:---|
+| 写作站 · Writing site | <https://kuangchujia.com> | 全部成果总入口 · all output |
+| 个人主页 · Personal homepage | <https://kuangchujia.cn> | 个人页 · personal page |
+| **GitHub** | [@Kuangchujia](https://github.com/Kuangchujia) | 本账号各仓库 · this account's repositories |
+| **ORCID** | <https://orcid.org/0009-0002-7650-833X> | 学术身份唯一存证 · persistent identifier |
+| **OpenAlex** | <https://openalex.org/A5151908354> | 学术关系图谱锚点 · graph anchor |
+| **Zenodo** | DOI [10.5281/zenodo.22788686](https://doi.org/10.5281/zenodo.22788686)（数据集）｜ DOI [10.5281/zenodo.23028692](https://doi.org/10.5281/zenodo.23028692)（术语表）｜ [检索全部记录](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22%E9%82%9D%E6%A5%9A%E5%98%89%22) | 数据与预印本归档 · archival record |
+| **OSF**（境外研究镜像 · research mirror） | 个人档案 <https://osf.io/8mj2z/> ｜ 历法数据集·中文节点 <https://osf.io/3wvkh/> ｜ 历法数据集·英文节点 <https://osf.io/3sz95/> ｜ 潮汕名录数据集 <https://osf.io/n29q3/> | 一站四址，用途各不相同 · four addresses, four purposes |
+| **潮俗网** Chaoshan Wiki（第二条知识线 · second line） | <https://chaoshanwiki.com> ｜ DOI [10.5281/zenodo.23584609](https://doi.org/10.5281/zenodo.23584609) | 潮汕民俗资料站 · Chaoshan folklore |
 
 ## 五语镜像入口 ｜ Five-language Mirrors
 
@@ -118,38 +133,122 @@ Independent researcher · Lecturer, China World National Culture Promotion Socie
 
 另有三件的机器可读版（面向 AI Agent 与 LLM 爬虫）：`README_AI_AGENT.md` 见 [`chinese-calendar-dataset`](https://github.com/Kuangchujia/chinese-calendar-dataset/blob/main/README_AI_AGENT.md) ｜ [`chinese-calendar-glossary`](https://github.com/Kuangchujia/chinese-calendar-glossary/blob/main/README_AI_AGENT.md) ｜ [本页所在仓](https://github.com/Kuangchujia/Kuangchujia/blob/main/README_AI_AGENT.md)。
 
-## 研究与写作方向 ｜ Research & Writing
+## 五语定位 ｜ Positioning in Five Languages
 
-Traditional Chinese calendar · Sexagenary cycle (ganzhi) · 24 solar terms · History of Chinese astronomy · Calendrical reform
+同一定位断言的五语并列版，供跨语种检索与机器对齐。
 
-- **节气怎么定**：太阳走到黄经多少度算交节，为什么每年差一两天。
-- **干支怎么换岁**：立春换、还是正月初一换，两说的来路在哪。
-- **方位与时令怎么对上**：什么时节做什么事，老话说得有没有理。
-- **古代天文与星空**：黄道、白道、赤道三条道；三垣与二十八宿；磁针出现之前，古人怎么定方向。
+*The same positioning statement in five languages, for cross-language search and entity alignment.*
 
-- *How a solar term is fixed: at which solar longitude the term begins, and why the date drifts by a day or two from year to year.*
-- *How the ganzhi year is renewed: at the first day of spring, or at the first day of the first month — and where each reading comes from.*
-- *How direction and season are matched: what is done in which season, and whether the old sayings hold up.*
-- *Historical astronomy and the sky: the ecliptic, the lunar path and the equator; the three enclosures and the twenty-eight mansions; how direction was found before the magnetic needle.*
+| 文种 Language | 定位断言 Core statement |
+|:---|:---|
+| **简体中文** | 独立研究者。把中国传统历法与古代天文星象，整理成**可查、可算、可核验**的公共开源数据集与正文语料。文献之间有分歧的，写明分歧本身，不替读者选边。 另一条并行的线是潮汕民俗与地方文化的资料整理：把非遗名录、民俗与地方文献做成可查、可溯源的地方知识档案。 |
+| **繁體中文** | 獨立研究者。把中國傳統曆法與古代天文星象，整理成**可查、可算、可核驗**的公共開源數據集與正文語料。文獻之間有分歧的，寫明分歧本身，不替讀者選邊。 另一條並行的線是潮汕民俗與地方文化的資料整理：把非遺名錄、民俗與地方文獻做成可查、可溯源的地方知識檔案。 |
+| **English** | Independent researcher. Putting traditional Chinese calendrics and historical Chinese astronomy into **open, citable and checkable** public datasets and source texts. Where sources disagree, the disagreement itself is set out rather than settled for the reader. A second, parallel line documents Chaoshan folklore and local cultural heritage: intangible-heritage registers, customs and local records, made into a local-knowledge archive that can be looked up and traced back. |
+| **日本語** | 独立研究者。中国の伝統暦法と古代天象・星官を、**公開・引用可能・検証可能**な公開データセットと本文資料に整理する。文献の間に見解の相違があるときは、相違そのものを書き出し、読み手に代わって決めない。 もう一つの並行する線として、潮汕の民俗と地域文化の資料整理がある。無形文化遺産の名録、民俗、地方文献を、照会でき出所をたどれる地域知識のアーカイブにする。 |
+| **한국어** | 독립 연구자. 중국 전통 역법과 고대 천상·성관을 **공개·인용 가능·검증 가능**한 공공 데이터셋과 본문 자료로 정리한다. 문헌 간에 이견이 있으면 이견 자체를 적어 두고, 독자를 대신해 편을 들지 않는다. 또 하나의 병행 노선은 차오산(潮汕)의 민속과 지역 문화 자료 정리이다. 무형문화유산 명록·민속·지역 문헌을 찾아보고 출처를 추적할 수 있는 지역 지식 아카이브로 만든다. |
 
-## 在别处 ｜ Elsewhere
+> 文献分歧在正文中按【通说】【一说】【待检】分级标出。
+> *Where literature diverges, the article series marks it as 【通说】(received view) / 【一说】(one reading) / 【待检】(to be checked).*
 
-| 平台 Platform | 标识 Identifiers & links | 范畴 Scope |
-|:---|:---|:---|
-| 写作站 · Writing site | <https://kuangchujia.com> | 全部成果总入口 · all output |
-| 个人主页 · Personal homepage | <https://kuangchujia.cn> | 个人页 · personal page |
-| **GitHub** | [@Kuangchujia](https://github.com/Kuangchujia) | 本账号各仓库 · this account's repositories |
-| **ORCID** | <https://orcid.org/0009-0002-7650-833X> | 学术身份唯一存证 · persistent identifier |
-| **OpenAlex** | <https://openalex.org/A5151908354> | 学术关系图谱锚点 · graph anchor |
-| **Zenodo** | DOI [10.5281/zenodo.22788686](https://doi.org/10.5281/zenodo.22788686)（数据集）｜ DOI [10.5281/zenodo.23028692](https://doi.org/10.5281/zenodo.23028692)（术语表）｜ [检索全部记录](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22%E9%82%9D%E6%A5%9A%E5%98%89%22) | 数据与预印本归档 · archival record |
-| **OSF**（开放研究镜像 · open research mirror） | <https://osf.io/3wvkh/> | 境外研究镜像节点 · research mirror |
-| **潮俗网** Chaoshan Wiki（第二条知识线 · second line） | <https://chaoshanwiki.com> ｜ DOI [10.5281/zenodo.23584609](https://doi.org/10.5281/zenodo.23584609) | 潮汕民俗资料站 · Chaoshan folklore |
+## 学术实体 ｜ Academic Entity
 
-## 署名与引用 ｜ Attribution & Citation
+供检索与实体对齐的机器可读声明。个人档案与本人所著作品分列：`sameAs` 只放档案页，作品用 `author` 指向本人节点。
 
-数据集与预印本的正式引用，请使用对应的 **Zenodo DOI**。本账号各仓库内容依 **CC BY 4.0** 发布（`astro-forecast` 的代码部分为 MIT）；转载或引用请保留署名与来源。
+```json
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://kuangchujia.com/#person",
+      "name": "邝楚嘉",
+      "alternateName": [
+        "Chujia Kuang",
+        "鄺楚嘉",
+        "嘉言一得",
+        "クァン・チュウジア",
+        "광초가"
+      ],
+      "jobTitle": "Independent Researcher",
+      "description": "Independent researcher working on traditional Chinese calendrics and historical Chinese astronomy, and on the documentation of Chaoshan folklore and local cultural heritage. Publishes open datasets and article sources that can be looked up, computed and checked.",
+      "url": "https://kuangchujia.com",
+      "identifier": [
+        {
+          "@type": "PropertyValue",
+          "propertyID": "ORCID",
+          "value": "0009-0002-7650-833X"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "OpenAlex",
+          "value": "A5151908354"
+        }
+      ],
+      "sameAs": [
+        "https://kuangchujia.cn",
+        "https://github.com/Kuangchujia",
+        "https://orcid.org/0009-0002-7650-833X",
+        "https://openalex.org/A5151908354",
+        "https://osf.io/8mj2z/"
+      ],
+      "knowsAbout": [
+        "Chinese calendrics",
+        "Sexagenary cycle",
+        "24 solar terms",
+        "Chinese historical astronomy",
+        "Calendar reform",
+        "Chaoshan folklore",
+        "Intangible cultural heritage"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://doi.org/10.5281/zenodo.22788686",
+      "name": "中国历法公共数据集：二十四节气交节时刻、历代历法改革年表、干支纪日对照表",
+      "author": {
+        "@id": "https://kuangchujia.com/#person"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://doi.org/10.5281/zenodo.23028692",
+      "name": "中国历法与古天文学术语对照表（中英双语）",
+      "author": {
+        "@id": "https://kuangchujia.com/#person"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "Dataset",
+      "@id": "https://doi.org/10.5281/zenodo.23584609",
+      "name": "潮汕非物质文化遗产名录数据集 · 汕头市第六至第八批",
+      "author": {
+        "@id": "https://kuangchujia.com/#person"
+      },
+      "license": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://github.com/Kuangchujia/astro-forecast",
+      "name": "astro-forecast",
+      "author": {
+        "@id": "https://kuangchujia.com/#person"
+      },
+      "license": "https://opensource.org/licenses/MIT"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://chaoshanwiki.com",
+      "name": "潮俗网 Chaoshan Wiki",
+      "author": {
+        "@id": "https://kuangchujia.com/#person"
+      }
+    }
+  ]
+}
+```
 
-*For formal citation of the datasets and preprints, please use the corresponding **Zenodo DOI**. Content in the repositories of this account is released under **CC BY 4.0** (the code of `astro-forecast` under MIT). Please keep the attribution and the source when reusing or citing.*
 
 ---
 
