@@ -73,7 +73,7 @@ Independent researcher · Lecturer, China World National Culture Promotion Socie
 
 | 内容 Content | 规模 Scale | 入口 Links |
 |:---|:---|:---|
-| **潮汕非物质文化遗产名录数据集**<br>Chaoshan ICH Register Dataset | 汕头市第六至第八批市级非遗代表性项目名录，139 项（第六批 29／第七批 58／第八批 52）。字段取原件栏目，另附文号、证据定位、核验记录与站内对应页四层；饮食类 72 项单列。<br>*The 6th–8th municipal intangible cultural heritage registers of Shantou: 139 entries (29 / 58 / 52). Fields are taken from the original documents, with document numbers, evidence locators, verification records and the matching page on the site added as four further layers; 72 food-related entries are flagged.* | [chaoshanwiki.com](https://chaoshanwiki.com) ｜ DOI [10.5281/zenodo.23584609](https://doi.org/10.5281/zenodo.23584609) |
+| **潮汕非物质文化遗产名录数据集**<br>Chaoshan ICH Register Dataset | 汕头市第六至第八批市级非遗代表性项目名录，139 项（第六批 29／第七批 58／第八批 52）。字段取原件栏目，另附文号、证据定位、核验记录与站内对应页四层；饮食类 72 项单列。<br>*The 6th–8th municipal intangible cultural heritage registers of Shantou: 139 entries (29 / 58 / 52). Fields are taken from the original documents, with document numbers, evidence locators, verification records and the matching page on the site added as four further layers; 72 food-related entries are flagged.* | [chaoshanwiki.com](https://chaoshanwiki.com) ｜ DOI [10.5281/zenodo.23584609](https://doi.org/10.5281/zenodo.23584609) ｜ OSF <https://osf.io/n29q3/> |
 
 ## 研究与写作方向 ｜ Research & Writing
 
