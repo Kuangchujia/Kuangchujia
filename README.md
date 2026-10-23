@@ -74,6 +74,7 @@ Independent researcher · Lecturer, China World National Culture Promotion Socie
 | 内容 Content | 规模 Scale | 入口 Links |
 |:---|:---|:---|
 | **潮汕非物质文化遗产名录数据集**<br>Chaoshan ICH Register Dataset | 汕头市第六至第八批市级非遗代表性项目名录，139 项（第六批 29／第七批 58／第八批 52）。字段取原件栏目，另附文号、证据定位、核验记录与站内对应页四层；饮食类 72 项单列。<br>*The 6th–8th municipal intangible cultural heritage registers of Shantou: 139 entries (29 / 58 / 52). Fields are taken from the original documents, with document numbers, evidence locators, verification records and the matching page on the site added as four further layers; 72 food-related entries are flagged.* | [chaoshanwiki.com](https://chaoshanwiki.com) ｜ DOI [10.5281/zenodo.23584609](https://doi.org/10.5281/zenodo.23584609) ｜ OSF <https://osf.io/n29q3/> ｜ 数据 CC BY 4.0 |
+| **潮汕民俗数据集总索引**<br>Chaoshan Folklore Datasets · Index | 索引仓，不放数据文件：一件一行，列覆盖范围、版本、许可、概念 DOI、站内页与原件出处。现 4 行——已发布 1／准备中 1／规划中 2。<br>*An index repository that holds no data files: one row per dataset, giving coverage, version, licence, concept DOI, the page on the site that explains it, and the source document. Four rows at present — one published, one in preparation, two planned.* | [chaoshan-folklore-datasets](https://github.com/Kuangchujia/chaoshan-folklore-datasets) ｜ 本仓文本 CC BY 4.0 |
 
 ## 研究与写作方向 ｜ Research & Writing
 
