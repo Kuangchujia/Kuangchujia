@@ -2,7 +2,7 @@
 
 <!-- badges -->
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22788686.svg)](https://doi.org/10.5281/zenodo.22788686) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23028692.svg)](https://doi.org/10.5281/zenodo.23028692) [![Software](https://img.shields.io/badge/software-astro--forecast-blue.svg)](https://github.com/Kuangchujia/astro-forecast) [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7650--833X-a6ce39.svg)](https://orcid.org/0009-0002-7650-833X) [![OpenAlex](https://img.shields.io/badge/OpenAlex-A5151908354-ff6f00.svg)](https://openalex.org/A5151908354) [![Site](https://img.shields.io/badge/site-kuangchujia.com-blue.svg)](https://kuangchujia.com) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23584609.svg)](https://doi.org/10.5281/zenodo.23584609) [![Site](https://img.shields.io/badge/site-chaoshanwiki.com-8B392C.svg)](https://chaoshanwiki.com)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22788686.svg)](https://doi.org/10.5281/zenodo.22788686) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23028692.svg)](https://doi.org/10.5281/zenodo.23028692) [![Software](https://img.shields.io/badge/software-astro--forecast-blue.svg)](https://github.com/Kuangchujia/astro-forecast) [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7650--833X-a6ce39.svg)](https://orcid.org/0009-0002-7650-833X) [![OpenAlex](https://img.shields.io/badge/OpenAlex-A5151908354-ff6f00.svg)](https://openalex.org/A5151908354) [![Site](https://img.shields.io/badge/site-kuangchujia.com-blue.svg)](https://kuangchujia.com) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23584609.svg)](https://doi.org/10.5281/zenodo.23584609) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23588409.svg)](https://doi.org/10.5281/zenodo.23588409) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23588756.svg)](https://doi.org/10.5281/zenodo.23588756) [![Site](https://img.shields.io/badge/site-chaoshanwiki.com-8B392C.svg)](https://chaoshanwiki.com)
 
 **Chujia Kuang（邝楚嘉）** · 笔名 嘉言一得（Jiayan-Yide）
 Independent researcher · Lecturer, China World National Culture Promotion Society · Jieyang, Guangdong, China
@@ -53,6 +53,8 @@ Independent researcher · Lecturer, China World National Culture Promotion Socie
 
 **状态 · Status**（截至 2026-10-23）
 - 已发布：名录数据集 v1.0，139 项 × 22 列，DOI [10.5281/zenodo.23584609](https://doi.org/10.5281/zenodo.23584609)；OSF 镜像 <https://osf.io/n29q3/>
+- 已发布：英歌数据集 v1.0，88 条 × 8 表，DOI [10.5281/zenodo.23588409](https://doi.org/10.5281/zenodo.23588409)
+- 已发布：英歌数据集数据论文（中英双语），DOI [10.5281/zenodo.23588756](https://doi.org/10.5281/zenodo.23588756)；OSF <https://osf.io/htevm/>
 - 已上线：潮俗网 263 页；名录页与数据集页互为入口
 - 在建：条目页补证——139 项中 106 项站内尚无对应内容，逐条补来源与正文
 - 计划：英文摘要与双语字段；影像授权另行处理，未授权的图不收
@@ -74,7 +76,9 @@ Independent researcher · Lecturer, China World National Culture Promotion Socie
 | 内容 Content | 规模 Scale | 入口 Links |
 |:---|:---|:---|
 | **潮汕非物质文化遗产名录数据集**<br>Chaoshan ICH Register Dataset | 汕头市第六至第八批市级非遗代表性项目名录，139 项（第六批 29／第七批 58／第八批 52）。字段取原件栏目，另附文号、证据定位、核验记录与站内对应页四层；饮食类 72 项单列。<br>*The 6th–8th municipal intangible cultural heritage registers of Shantou: 139 entries (29 / 58 / 52). Fields are taken from the original documents, with document numbers, evidence locators, verification records and the matching page on the site added as four further layers; 72 food-related entries are flagged.* | [chaoshanwiki.com](https://chaoshanwiki.com) ｜ DOI [10.5281/zenodo.23584609](https://doi.org/10.5281/zenodo.23584609) ｜ OSF <https://osf.io/n29q3/> ｜ 数据 CC BY 4.0 |
-| **潮汕民俗数据集总索引**<br>Chaoshan Folklore Datasets · Index | 索引仓，不放数据文件：一件一行，列覆盖范围、版本、许可、概念 DOI、站内页与原件出处。现 4 行——已发布 1／准备中 1／规划中 2。<br>*An index repository that holds no data files: one row per dataset, giving coverage, version, licence, concept DOI, the page on the site that explains it, and the source document. Four rows at present — one published, one in preparation, two planned.* | [chaoshan-folklore-datasets](https://github.com/Kuangchujia/chaoshan-folklore-datasets) ｜ 本仓文本 CC BY 4.0 |
+| **潮汕英歌舞专题数据集**<br>Chaoshan Yingge Dance Dataset | 站上《英歌》十卷压成八张表，88 条：国家级名录项目 3 项（编号 Ⅲ-8）／队伍 25 支／国家级代表性传承人 4 位／三大流派 9 条／角色 7 个／术语 17 条／疑问 15 条／来源 8 条。十卷之中七卷入表，另三卷留在站上作叙述。<br>*The ten Yingge volumes on the site, reduced to eight tables and 88 records: 3 national list entries (item Ⅲ-8), 25 teams, 4 national-level inheritors, 9 entries on the three schools, 7 named roles, 17 terms, 15 questions and 8 sources. Seven of the ten volumes are tabulated; the other three remain prose on the site.* | [chaoshanwiki.com/yingge/](https://chaoshanwiki.com/yingge/) ｜ DOI [10.5281/zenodo.23588409](https://doi.org/10.5281/zenodo.23588409) ｜ 数据 CC BY 4.0 |
+| **潮汕英歌舞专题数据集 · 数据论文**<br>Yingge Dataset · Data Paper | 中英双语各一篇，八章加参考文献 14 条：材料、判据、字段设计、表结构、六条边界、分层许可；文中每个数都可在数据集包内复算。四件文件（两份 PDF、两份 Markdown 源）。<br>*A bilingual data paper in eight chapters with 14 references — materials, inclusion rule, field design, table structure, six stated limits and the layered licence. Every figure can be recomputed from the dataset package. Four files: two PDFs and two Markdown sources.* | DOI [10.5281/zenodo.23588756](https://doi.org/10.5281/zenodo.23588756) ｜ OSF <https://osf.io/htevm/> ｜ 文本 CC BY 4.0 |
+| **潮汕民俗数据集总索引**<br>Chaoshan Folklore Datasets · Index | 索引仓，不放数据文件：一件一行，列覆盖范围、版本、许可、概念 DOI、站内页与原件出处。现 4 行——已发布 2／规划中 2。<br>*An index repository that holds no data files: one row per dataset, giving coverage, version, licence, concept DOI, the page on the site that explains it, and the source document. Four rows at present — two published, two planned.* | [chaoshan-folklore-datasets](https://github.com/Kuangchujia/chaoshan-folklore-datasets) ｜ 本仓文本 CC BY 4.0 |
 
 ## 研究与写作方向 ｜ Research & Writing
 
