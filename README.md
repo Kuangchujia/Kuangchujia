@@ -113,7 +113,7 @@ Independent researcher · Lecturer, China World National Culture Promotion Socie
 | 平台 Platform | 标识 Identifiers & links | 范畴 Scope |
 |:---|:---|:---|
 | 写作站 · Writing site | <https://kuangchujia.com> | 全部成果总入口 · all output |
-| 个人主页 · Personal homepage | <https://kuangchujia.cn> | 个人页 · personal page |
+| 个人主页 · Personal homepage | <https://kuangchujia.cn>（现跳转至 kuangchujia.com） | 个人页 · personal page |
 | **GitHub** | [@Kuangchujia](https://github.com/Kuangchujia) | 本账号各仓库 · this account's repositories |
 | **ORCID** | <https://orcid.org/0009-0002-7650-833X> | 学术身份唯一存证 · persistent identifier |
 | **OpenAlex** | <https://openalex.org/A5151908354> | 学术关系图谱锚点 · graph anchor |
@@ -185,7 +185,6 @@ Independent researcher · Lecturer, China World National Culture Promotion Socie
         }
       ],
       "sameAs": [
-        "https://kuangchujia.cn",
         "https://github.com/Kuangchujia",
         "https://orcid.org/0009-0002-7650-833X",
         "https://openalex.org/A5151908354",
