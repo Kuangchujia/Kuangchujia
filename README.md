@@ -5,7 +5,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22788686.svg)](https://doi.org/10.5281/zenodo.22788686) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23028692.svg)](https://doi.org/10.5281/zenodo.23028692) [![Software](https://img.shields.io/badge/software-astro--forecast-blue.svg)](https://github.com/Kuangchujia/astro-forecast) [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7650--833X-a6ce39.svg)](https://orcid.org/0009-0002-7650-833X) [![OpenAlex](https://img.shields.io/badge/OpenAlex-A5151908354-ff6f00.svg)](https://openalex.org/A5151908354) [![Site](https://img.shields.io/badge/site-kuangchujia.com-blue.svg)](https://kuangchujia.com) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23584609.svg)](https://doi.org/10.5281/zenodo.23584609) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23588409.svg)](https://doi.org/10.5281/zenodo.23588409) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23588756.svg)](https://doi.org/10.5281/zenodo.23588756) [![Site](https://img.shields.io/badge/site-chaoshanwiki.com-8B392C.svg)](https://chaoshanwiki.com)
 
 **Chujia Kuang（邝楚嘉）** · 笔名 嘉言一得（Jiayan-Yide）
-Independent researcher · Lecturer, China World National Culture Promotion Society · Jieyang, Guangdong, China
+Independent Researcher | Chinese Calendrics & Historical Astronomy
 
 两条线，同一作者：中国传统历法与历史天文，做**可算的天时**；潮汕民俗与地方文化数据，做**可查的地方知识**。
 *Two lines by one author: traditional Chinese calendrics and historical astronomy — computable celestial time; and Chaoshan folklore and local cultural data — look-up-able local knowledge.*
@@ -36,7 +36,10 @@ Independent researcher · Lecturer, China World National Culture Promotion Socie
 
 *Every figure for a moment, a date or a position is tied to ephemeris data that can be re-computed and to sources that can be looked up. Where sources disagree, the disagreement itself is set out rather than settled on the reader's behalf. **No predictive claims, and no individual readings.***
 
-**状态 · Status**（截至 2026-10-23）：三件数据集已发布——节气交节时刻 3,672 条、历代历法年表 52 部、干支纪日 55,883 天；术语对照表 279 条已发布；预计算引擎 `astro-forecast` 已开源；科普稿 14 篇已归档。
+**当前重点 · Current Focus**
+研究聚焦中国传统历法与历史天文，重点是传统历法体系、天文计时与可复算的历算方法。公开研究资料与项目更新由所链网站与仓库维护。
+
+*Research and documentation in Chinese calendrical science and historical astronomy, with an emphasis on traditional calendar systems, astronomical timekeeping, and reproducible calendrical computation. Public research resources and project updates are maintained through the linked websites and repositories.*
 
 ### 二 · 潮汕民俗与地方文化数据 ｜ Chaoshan Folklore & Cultural Data
 
@@ -51,7 +54,7 @@ Independent researcher · Lecturer, China World National Culture Promotion Socie
 
 *Principle: official registers, historical documents, field records and modern interpretations are kept apart. Every item carries its source, its verification state and its rights status; a claim that has not been checked is not written up as fact.*
 
-**状态 · Status**（截至 2026-10-23）
+**阶段记录 · Status at 2026-10-23**
 - 已发布：名录数据集 v1.0，139 项 × 22 列，DOI [10.5281/zenodo.23584609](https://doi.org/10.5281/zenodo.23584609)；OSF 镜像 <https://osf.io/n29q3/>
 - 已发布：英歌数据集 v1.0，88 条 × 8 表，DOI [10.5281/zenodo.23588409](https://doi.org/10.5281/zenodo.23588409)
 - 已发布：英歌数据集数据论文（中英双语），DOI [10.5281/zenodo.23588756](https://doi.org/10.5281/zenodo.23588756)；OSF <https://osf.io/htevm/>
