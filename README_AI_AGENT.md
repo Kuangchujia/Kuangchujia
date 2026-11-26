@@ -64,7 +64,7 @@ with one `Book` node added for the textbook.
         "광초가"
       ],
       "jobTitle": "Independent Researcher",
-      "description": "Independent researcher working on traditional Chinese calendrics and historical Chinese astronomy, and on the documentation of Chaoshan folklore and local cultural heritage. Publishes open datasets and article sources that can be looked up, computed and checked.",
+      "description": "Independent researcher working on traditional Chinese calendrics and historical Chinese astronomy, on the documentation of Chaoshan folklore and local cultural heritage, and author of an open Four Pillars (Bazi) textbook. Publishes open datasets and article sources that can be looked up, computed and checked.",
       "url": "https://kuangchujia.com",
       "identifier": [
         {

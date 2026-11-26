@@ -14,7 +14,8 @@
 [![kuangchujia.com](https://img.shields.io/badge/kuangchujia.com-0b6e4f?logo=wordpress&logoColor=white&style=flat-square)](https://kuangchujia.com) [![bazi-textbook](https://img.shields.io/badge/bazi--textbook.jiayanyide.com-8b392c?logo=materialformkdocs&logoColor=white&style=flat-square)](https://bazi-textbook.jiayanyide.com/) [![chaoshanwiki.com](https://img.shields.io/badge/chaoshanwiki.com-8B392C?logo=wordpress&logoColor=white&style=flat-square)](https://chaoshanwiki.com)
 
 **Chujia Kuang（邝楚嘉）** · 笔名 嘉言一得（Jiayan-Yide）
-Independent Researcher | Chinese Calendrics & Historical Astronomy
+独立研究者 ｜ 中国历法与历史天文 ｜ 四柱八字教材
+*Independent Researcher | Chinese Calendrics & Historical Astronomy | Four Pillars Textbook*
 
 三条线，同一作者：中国传统历法与历史天文，做**可算的天时**；四柱八字教材，做**可复核的教本**；潮汕民俗与地方文化数据，做**可查的地方知识**。
 *Three lines by one author: traditional Chinese calendrics and historical astronomy — computable celestial time; a Four Pillars (Bazi) textbook — a checkable teaching text; and Chaoshan folklore and local cultural data — look-up-able local knowledge.*
