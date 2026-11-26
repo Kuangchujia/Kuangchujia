@@ -1,26 +1,35 @@
 # 邝楚嘉 ｜ Chujia Kuang
 
 <!-- badges -->
+<sub>身份 · Identity</sub>
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22788686.svg)](https://doi.org/10.5281/zenodo.22788686) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23028692.svg)](https://doi.org/10.5281/zenodo.23028692) [![Software](https://img.shields.io/badge/software-astro--forecast-blue.svg)](https://github.com/Kuangchujia/astro-forecast) [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7650--833X-a6ce39.svg)](https://orcid.org/0009-0002-7650-833X) [![OpenAlex](https://img.shields.io/badge/OpenAlex-A5151908354-ff6f00.svg)](https://openalex.org/A5151908354) [![Site](https://img.shields.io/badge/site-kuangchujia.com-blue.svg)](https://kuangchujia.com) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23584609.svg)](https://doi.org/10.5281/zenodo.23584609) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23588409.svg)](https://doi.org/10.5281/zenodo.23588409) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23588756.svg)](https://doi.org/10.5281/zenodo.23588756) [![Site](https://img.shields.io/badge/site-chaoshanwiki.com-8B392C.svg)](https://chaoshanwiki.com)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--7650--833X-a6ce39?logo=orcid&logoColor=white&style=flat-square)](https://orcid.org/0009-0002-7650-833X) [![OpenAlex](https://img.shields.io/badge/OpenAlex-A5151908354-ff6f00?logo=openalex&logoColor=white&style=flat-square)](https://openalex.org/A5151908354)
+
+<sub>成果 · Output</sub>
+
+[![历法数据集](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22788686-1682d4?logo=zenodo&logoColor=white&style=flat-square)](https://doi.org/10.5281/zenodo.22788686) [![八字教材](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24549949-a6432a?logo=zenodo&logoColor=white&style=flat-square)](https://doi.org/10.5281/zenodo.24549949)
+
+<sub>站点 · Sites</sub>
+
+[![kuangchujia.com](https://img.shields.io/badge/kuangchujia.com-0b6e4f?logo=wordpress&logoColor=white&style=flat-square)](https://kuangchujia.com) [![bazi-textbook](https://img.shields.io/badge/bazi--textbook.jiayanyide.com-8b392c?logo=materialformkdocs&logoColor=white&style=flat-square)](https://bazi-textbook.jiayanyide.com/) [![chaoshanwiki.com](https://img.shields.io/badge/chaoshanwiki.com-8B392C?logo=wordpress&logoColor=white&style=flat-square)](https://chaoshanwiki.com)
 
 **Chujia Kuang（邝楚嘉）** · 笔名 嘉言一得（Jiayan-Yide）
 Independent Researcher | Chinese Calendrics & Historical Astronomy
 
-两条线，同一作者：中国传统历法与历史天文，做**可算的天时**；潮汕民俗与地方文化数据，做**可查的地方知识**。
-*Two lines by one author: traditional Chinese calendrics and historical astronomy — computable celestial time; and Chaoshan folklore and local cultural data — look-up-able local knowledge.*
+三条线，同一作者：中国传统历法与历史天文，做**可算的天时**；四柱八字教材，做**可复核的教本**；潮汕民俗与地方文化数据，做**可查的地方知识**。
+*Three lines by one author: traditional Chinese calendrics and historical astronomy — computable celestial time; a Four Pillars (Bazi) textbook — a checkable teaching text; and Chaoshan folklore and local cultural data — look-up-able local knowledge.*
 
 **全部成果总入口 · All output**：<https://kuangchujia.com>
 **引用与身份 · Cite & identity**：DOI [10.5281/zenodo.22788686](https://doi.org/10.5281/zenodo.22788686) ｜ ORCID [0009-0002-7650-833X](https://orcid.org/0009-0002-7650-833X)
 
-> **本页正文中英双语**，每节中文在前、英文在后，两版内容逐节对应。五语定位表与机器可读声明放在页末。
-> **This page is in both Chinese and English**, Chinese first, English second, section by section. The five-language positioning table and the machine-readable statement are placed near the end.
+> **本页正文中英双语**，每节中文在前、英文在后，两版内容逐节对应。五语定位表放在页末；机器可读声明移至 `README_AI_AGENT.md`。
+> **This page is in both Chinese and English**, Chinese first, English second, section by section. The five-language positioning table sits near the end; the machine-readable statement now lives in `README_AI_AGENT.md`.
 
-## 两个研究方向 ｜ Two Lines of Work
+## 三个方向 ｜ Three Lines of Work
 
-两线并列，不是上下：历法线做「可算的天时」，潮汕线做「可查的地方知识」。读者可以只用其中一条。
+三线并列，不是上下：历法线做「可算的天时」，教材线做「可复核的教本」，潮汕线做「可查的地方知识」。读者可以只用其中一条。
 
-*The two lines stand side by side rather than one above the other: the calendrical line deals with computable celestial time, the Chaoshan line with look-up-able local knowledge. A reader may use either one alone.*
+*The three lines stand side by side rather than one above the other: the calendrical line deals with computable celestial time, the textbook line with a checkable teaching text, the Chaoshan line with look-up-able local knowledge. A reader may use any one alone.*
 
 ### 一 · 历法与传统天文 ｜ Calendrics & Historical Astronomy
 
@@ -41,7 +50,21 @@ Independent Researcher | Chinese Calendrics & Historical Astronomy
 
 *Research and documentation in Chinese calendrical science and historical astronomy, with an emphasis on traditional calendar systems, astronomical timekeeping, and reproducible calendrical computation. Public research resources and project updates are maintained through the linked websites and repositories.*
 
-### 二 · 潮汕民俗与地方文化数据 ｜ Chaoshan Folklore & Cultural Data
+### 二 · 四柱八字教材 ｜ Four Pillars Textbook
+
+**[四柱八字基础教材 · bazi-textbook.jiayanyide.com](https://bazi-textbook.jiayanyide.com/)** 是 2024 年基础班讲义整理成的公开教材，2026-11-26 归档于 Zenodo。四篇十七课、12+万字，按原课次编排，正文原文未删改；不同流派的口径差异照原样并存，没有裁成一家之言。
+
+配套三件：63 道无答案练习题、四份结构化 CSV 附录（每行带 `source_lesson_id` 与 `source_reference`，可回溯到课次）、构建与导出脚本。
+
+教材属传统命理理论，书中的判断与推演是该体系内部的结论，不宣称已获现代科学确证。本页只记体量、版本与许可，不作断验说明。
+
+*The teaching text of the 2024 foundation course, archived on Zenodo on 2026-11-26: four parts, seventeen lessons, over 120,000 Chinese characters, kept in the original lesson order and unaltered. Where schools disagree, the divergence is left standing rather than harmonised.*
+
+*Shipped with it: 63 practice questions without answers; four structured CSV appendices, each row carrying `source_lesson_id` and `source_reference` so that it can be traced back to a lesson; and the build scripts.*
+
+*The textbook belongs to the traditional Chinese metaphysics tradition: its judgments are internal to that system and are not presented as scientifically established. This page records its size, version and licence only — no readings, no predictions.*
+
+### 三 · 潮汕民俗与地方文化数据 ｜ Chaoshan Folklore & Cultural Data
 
 **[潮俗网 · chaoshanwiki.com](https://chaoshanwiki.com)** 潮汕民俗与地方文化的公共资料站。同一作者，另建一套档案：单独的数据集、单独的 DOI，不并进历法记录。
 
@@ -74,6 +97,12 @@ Independent Researcher | Chinese Calendrics & Historical Astronomy
 | **科普稿预印本镜像**<br>Preprint Mirror | 「中国历法与传统天文星象」系列稿的 PDF 与书目元数据镜像，与 Zenodo 上的逐篇记录一一对应。<br>*PDFs and bibliographic metadata for the "Chinese Calendar and Traditional Astronomy" article series, mirroring its individual Zenodo records one for one.* | [`kuangchujia-preprints`](https://github.com/Kuangchujia/kuangchujia-preprints) ｜ 站点 <https://kuangchujia.github.io/kuangchujia-preprints/> |
 | **科普稿正文镜像**<br>Article Source Mirror | 同一系列的正文 Markdown 与正文配图，14 篇，便于阅读与检索。<br>*The article sources of the same series — Markdown text and inline figures, 14 pieces — for reading and full-text search.* | [`kuangchujia-articles`](https://github.com/Kuangchujia/kuangchujia-articles) |
 
+### 教材线 ｜ Textbook line
+
+| 项目 Project | 内容 Content | 入口 Links |
+|:---|:---|:---|
+| **四柱八字基础教材**<br>Four Pillars: Foundational Textbook | 四篇十七课、12+万字；63 道无答案练习；四份 CSV 附录（六十甲子 60 行／十神 5 行／长生十二宫 10 行／神煞 51 行，逐行带课次与出处）；构建脚本。分层许可：正文与练习 CC BY-NC-SA 4.0，附录数据 CC BY 4.0，脚本 MIT。<br>*Four parts, seventeen lessons, over 120,000 characters; 63 practice questions without answers; four CSV appendices (60 / 5 / 10 / 51 rows, each carrying lesson id and source reference); build scripts. Layered licence: text and exercises CC BY-NC-SA 4.0, appendix data CC BY 4.0, scripts MIT.* | [`bazi-textbook`](https://github.com/Kuangchujia/bazi-textbook) ｜ 站点 <https://bazi-textbook.jiayanyide.com/> ｜ DOI [10.5281/zenodo.24549949](https://doi.org/10.5281/zenodo.24549949) |
+
 ### 潮汕线 ｜ Chaoshan line
 
 | 内容 Content | 规模 Scale | 入口 Links |
@@ -100,7 +129,7 @@ Independent Researcher | Chinese Calendrics & Historical Astronomy
 - *How direction and season are matched: what is done in which season, and whether the old sayings hold up.*
 - *Historical astronomy and the sky: the ecliptic, the lunar path and the equator; the three enclosures and the twenty-eight mansions; how direction was found before the magnetic needle.*
 
-### 潮汕民俗与地方文化数据 ｜ Chaoshan Folklore & Cultural Data
+### 潮汕一线 ｜ Chaoshan Line
 
 - **名录与实物怎么对上**：市级名录的项目、保护单位与传承人，和国保、省保、方言片区之间是什么关系。
 - **一条材料能追到多远**：从站上条目回到政府文号、原件页面与行号，再回到可引用的存档。
@@ -127,7 +156,8 @@ Independent Researcher | Chinese Calendrics & Historical Astronomy
 | **OpenAlex** | <https://openalex.org/A5151908354> | 学术关系图谱锚点 · graph anchor |
 | **Zenodo** | DOI [10.5281/zenodo.22788686](https://doi.org/10.5281/zenodo.22788686)（数据集）｜ DOI [10.5281/zenodo.23028692](https://doi.org/10.5281/zenodo.23028692)（术语表）｜ [检索全部记录](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22%E9%82%9D%E6%A5%9A%E5%98%89%22) | 数据与预印本归档 · archival record |
 | **OSF**（境外研究镜像 · research mirror） | 个人档案 <https://osf.io/8mj2z/> ｜ 历法数据集·中文节点 <https://osf.io/3wvkh/> ｜ 历法数据集·英文节点 <https://osf.io/3sz95/> ｜ 潮汕名录数据集 <https://osf.io/n29q3/> | 一站四址，用途各不相同 · four addresses, four purposes |
-| **潮俗网** Chaoshan Wiki（第二条知识线 · second line） | <https://chaoshanwiki.com> ｜ DOI [10.5281/zenodo.23584609](https://doi.org/10.5281/zenodo.23584609) | 潮汕民俗资料站 · Chaoshan folklore |
+| **潮俗网** Chaoshan Wiki | <https://chaoshanwiki.com> ｜ DOI [10.5281/zenodo.23584609](https://doi.org/10.5281/zenodo.23584609) | 潮汕民俗资料站 · Chaoshan folklore |
+| **八字教材** Four Pillars Textbook | <https://bazi-textbook.jiayanyide.com/> ｜ DOI [10.5281/zenodo.24549949](https://doi.org/10.5281/zenodo.24549949) | 教材正文、练习与附录 · textbook, exercises, appendices |
 
 ## 五语镜像入口 ｜ Five-language Mirrors
 
@@ -143,9 +173,9 @@ Independent Researcher | Chinese Calendrics & Historical Astronomy
 
 ## 五语定位 ｜ Positioning in Five Languages
 
-同一定位断言的五语并列版，供跨语种检索与机器对齐。
+同一定位断言的五语并列版，覆盖历法与潮汕两条线，供跨语种检索与机器对齐。教材线的定位见上文与 [`README_AI_AGENT.md`](README_AI_AGENT.md)。
 
-*The same positioning statement in five languages, for cross-language search and entity alignment.*
+*The same positioning statement in five languages, covering the calendrical and Chaoshan lines, for cross-language search and entity alignment. The textbook line is described above and in [`README_AI_AGENT.md`](README_AI_AGENT.md).*
 
 | 文种 Language | 定位断言 Core statement |
 |:---|:---|
@@ -160,109 +190,17 @@ Independent Researcher | Chinese Calendrics & Historical Astronomy
 
 ## 学术实体 ｜ Academic Entity
 
-供检索与实体对齐的机器可读声明。个人档案与本人所著作品分列：`sameAs` 只放档案页，作品用 `author` 指向本人节点。
+供检索与实体对齐的机器可读声明，已移至 [`README_AI_AGENT.md`](README_AI_AGENT.md)，本页不再内嵌代码块。
 
-```json
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Person",
-      "@id": "https://kuangchujia.com/#person",
-      "name": "邝楚嘉",
-      "alternateName": [
-        "Chujia Kuang",
-        "鄺楚嘉",
-        "嘉言一得",
-        "クァン・チュウジア",
-        "광초가"
-      ],
-      "jobTitle": "Independent Researcher",
-      "description": "Independent researcher working on traditional Chinese calendrics and historical Chinese astronomy, and on the documentation of Chaoshan folklore and local cultural heritage. Publishes open datasets and article sources that can be looked up, computed and checked.",
-      "url": "https://kuangchujia.com",
-      "identifier": [
-        {
-          "@type": "PropertyValue",
-          "propertyID": "ORCID",
-          "value": "0009-0002-7650-833X"
-        },
-        {
-          "@type": "PropertyValue",
-          "propertyID": "OpenAlex",
-          "value": "A5151908354"
-        }
-      ],
-      "sameAs": [
-        "https://github.com/Kuangchujia",
-        "https://orcid.org/0009-0002-7650-833X",
-        "https://openalex.org/A5151908354",
-        "https://osf.io/8mj2z/"
-      ],
-      "knowsAbout": [
-        "Chinese calendrics",
-        "Sexagenary cycle",
-        "24 solar terms",
-        "Chinese historical astronomy",
-        "Calendar reform",
-        "Chaoshan folklore",
-        "Intangible cultural heritage"
-      ]
-    },
-    {
-      "@type": "Dataset",
-      "@id": "https://doi.org/10.5281/zenodo.22788686",
-      "name": "中国历法公共数据集：二十四节气交节时刻、历代历法改革年表、干支纪日对照表",
-      "author": {
-        "@id": "https://kuangchujia.com/#person"
-      },
-      "license": "https://creativecommons.org/licenses/by/4.0/"
-    },
-    {
-      "@type": "Dataset",
-      "@id": "https://doi.org/10.5281/zenodo.23028692",
-      "name": "中国历法与古天文学术语对照表（中英双语）",
-      "author": {
-        "@id": "https://kuangchujia.com/#person"
-      },
-      "license": "https://creativecommons.org/licenses/by/4.0/"
-    },
-    {
-      "@type": "Dataset",
-      "@id": "https://doi.org/10.5281/zenodo.23584609",
-      "name": "潮汕非物质文化遗产名录数据集 · 汕头市第六至第八批",
-      "author": {
-        "@id": "https://kuangchujia.com/#person"
-      },
-      "license": "https://creativecommons.org/licenses/by/4.0/"
-    },
-    {
-      "@type": "SoftwareSourceCode",
-      "@id": "https://github.com/Kuangchujia/astro-forecast",
-      "name": "astro-forecast",
-      "author": {
-        "@id": "https://kuangchujia.com/#person"
-      },
-      "license": "https://opensource.org/licenses/MIT"
-    },
-    {
-      "@type": "WebSite",
-      "@id": "https://chaoshanwiki.com",
-      "name": "潮俗网 Chaoshan Wiki",
-      "author": {
-        "@id": "https://kuangchujia.com/#person"
-      }
-    }
-  ]
-}
-```
+*The machine-readable declaration now lives in [`README_AI_AGENT.md`](README_AI_AGENT.md); this page no longer embeds it. The same nodes are also kept as JSON-LD in that file, unchanged in structure.*
 
 
 ---
 
 作者：嘉言一得（邝楚嘉）｜独立研究者，致力于可核验的原始文献与历法数据归档。
 Author: Chujia Kuang (邝楚嘉), pen name Jiayan Yide (嘉言一得) — independent researcher devoted to archiving verifiable primary sources and calendar data.
-平实记录 · 数据集 · 预印本：GitHub / WordPress / Zenodo（DOI: 10.5281/zenodo.22788686 ／ 10.5281/zenodo.23028692 ／ 10.5281/zenodo.23584609）
-Records · Datasets · Preprints: GitHub / WordPress / Zenodo
+平实记录 · 数据集 · 预印本 · 教材：GitHub / WordPress / Zenodo（DOI: 10.5281/zenodo.22788686 ／ 10.5281/zenodo.23028692 ／ 10.5281/zenodo.23584609 ／ 10.5281/zenodo.24549949）
+Records · Datasets · Preprints · Textbook: GitHub / WordPress / Zenodo
 学术身份 · Academic identity：ORCID 0009-0002-7650-833X ｜ OpenAlex A5151908354
 
 ---
